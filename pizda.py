@@ -7,7 +7,7 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 
 # Замените 'YOUR_BOT_TOKEN' на токен вашего бота
-TOKEN = "7789322601:AAHBQTRFGVBoQARf7Sc4fGad668332wr1l4"
+TOKEN = ""
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
